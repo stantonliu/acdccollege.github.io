@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Tomy
-subtitle: Freaking Awesome!!! 
+title: About ACDC
+subtitle: ACDC Awesome!!! 
 bigimg: /assets/minions.jpg    #goku-last-skill-dragon-balls.jpg
 # <script src="{{ site.url }}/js/astrid.js"></script>
 ---
