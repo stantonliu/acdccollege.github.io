@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Achievement
-subtitle: Think Bigger, Do More
+title: ACDC
+subtitle: Think Bigger, Do More ACDC
 bigimg: /assets/ace.jpg
 ---
 
